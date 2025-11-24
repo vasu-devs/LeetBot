@@ -1,0 +1,30 @@
+{
+  "name": "leetbot",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build && vite build -c vite.content.config.ts && vite build -c vite.background.config.ts",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@types/chrome": "^0.1.31",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.554.0",
+    "mermaid": "^11.12.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "react-zoom-pan-pinch": "^3.7.0"
+  }
+}
