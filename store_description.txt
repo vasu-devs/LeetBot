@@ -1,0 +1,52 @@
+LeetBot: Your AI-Powered LeetCode Companion
+
+🚀 Supercharge your LeetCode journey with LeetBot, the ultimate AI assistant designed to help you MASTER problems, not just solve them.
+
+Stuck on a hard graph problem? Need a hint without spoiling the solution? Want to visualize a complex algorithm? LeetBot integrates seamlessly into your LeetCode workflow, providing intelligent guidance, interactive visualizations, and a beautiful, modern interface.
+
+💡 WHY LEETBOT?
+LeetBot isn't just another "answer generator." It acts as a private tutor, helping you build intuition and problem-solving skills. Whether you're a beginner learning data structures or a pro optimizing for time complexity, LeetBot adapts to your needs.
+
+✨ KEY FEATURES:
+
+🧠 Intelligent AI Modes
+• Tutor Mode: Get deep, conceptual explanations of the problem. Understand the "why" and "how" behind the solution.
+• Hint Mode: Receive subtle, step-by-step nudges. Perfect for when you're stuck but want to reach the solution yourself.
+• Planner Mode: Collaboratively design a solution strategy. Discuss brute-force approaches, optimizations, and edge cases before writing a single line of code.
+
+📈 Interactive Graph Visualizations
+• Auto-Generated Diagrams: Instantly turn complex logic into clear flowcharts, trees, and sequence diagrams using Mermaid.js.
+• Zoom & Pan: Navigate large, complex visualizations with intuitive pinch-to-zoom and drag controls.
+• Responsive Design: Diagrams automatically scale for maximum readability.
+
+🪟 Stunning Glassmorphic UI
+• Floating Window: A beautiful, non-intrusive overlay that sits on top of your problem page.
+• Jelly Physics: Enjoy a delightful user experience with smooth, springy window interactions.
+• Fully Customizable: Resize, move, and snap the window anywhere. It remembers your preferences!
+• Theme Sync: Automatically adapts to your LeetCode theme (Light/Dark mode) for a native feel.
+
+🔒 Privacy-First & Secure
+• Your Keys, Your Control: LeetBot uses your own API key (Gemini/AI). Keys are stored securely in your browser's local storage and never sent to our servers.
+• Open Source: Transparent and community-driven. Check out our code on GitHub!
+
+🛠️ HOW TO USE:
+1. Install the extension.
+2. Open any LeetCode problem page.
+3. Click the floating "Brain" icon to open LeetBot.
+4. Enter your API key in the settings.
+5. Choose your mode (Tutor, Hint, Planner) and start chatting!
+
+🎓 PERFECT FOR:
+• Students preparing for technical interviews.
+• Developers brushing up on algorithms.
+• Anyone who wants to visualize and understand code better.
+
+Stop grinding blindly. Start learning effectively with LeetBot.
+
+Download now and level up your coding skills! 🚀
+
+---
+Version: 1.0.0
+Updated: 2025
+Support: https://github.com/vasu-devs/LeetBot/issues
+Website: https://github.com/vasu-devs/LeetBot
